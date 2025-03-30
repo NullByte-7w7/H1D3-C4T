@@ -11,7 +11,7 @@ this backdoor is to ***fuck systems***, keeping ***persistence and hidden in the
 ## Features
 
 - Gain Access to Target Machine and Maintain Persistence in Various Ways
-- Compatible with Linux, Windows.
+- Compatible with Linux.
 - Anti-Debuggers (Search Process Runnning GDB,GHIDRA...)
 - Connection Cryptograph
 
